@@ -159,25 +159,30 @@ print(x_single_prediction)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/7da65f03-d706-4407-9ed9-00826bef81c7)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/fd389c16-0f15-4df7-89bb-4cba61065400)
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/19cff9e7-1ae7-479c-b891-43ceb13edffb)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/e908ac53-bde8-4374-b192-f8add842f6ab)
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/5753a16c-ce83-4852-a74b-bd4e755ef5ec)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/e6c54536-f558-4f9d-a0e6-ec239d585405)
+
+
 
 ### Classification Report
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/53334be8-23bf-45d9-b72b-a20dbb7c7b87)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/b37edb4d-b165-4f8f-a2ba-35924bc54e2d)
+
 
 ### Confusion Matrix
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/ea7d3982-5e9c-4271-9b3f-1787ce5ca0de)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/82a3c678-43ba-42c0-b216-f782afe93731)
+
 
 ### New Sample Data Prediction
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/c5c4d5d8-7500-41ef-b20f-6e3d3c3c6a50)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/ca6da3ce-040d-4b27-9e91-a60a8af2ec81)
 
-![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/c67e23b5-b9b1-4d47-a229-8c6cf3c8c3e8)
+![image](https://github.com/arshatha-palanivel/mnist-classification/assets/118682484/c8e9e612-95e5-4cf5-82bb-5c060169dee2)
+
 
 ## RESULT
 A convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed sucessfully.
